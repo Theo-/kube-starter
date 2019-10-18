@@ -8,4 +8,4 @@ Deploy the app using:
 kube deploy <app name>
 ```
 
-Live version at [https://sample-app-530e9d936dec76e.cou1.usekube.co/](https://sample-app-530e9d936dec76e.cou1.usekube.co/)
+Live version at [https://sample-app-530e9d936dec76e.usekube.co/](https://sample-app-530e9d936dec76e.usekube.co/)
